@@ -1,70 +1,50 @@
 <p align="center">
-<img width="500px" height="auto" src="images/image.gif" height="175px"/>
-</p>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Muhammad Amir</h1>
-<p align="center">
-I'm a final year student pursuing Bachelors's in Computer Science from NCBA&E. I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Full stack Development and working on Machine Learning.
+  <img width="500px" height="auto" src="images/image.gif" height="175px"/>
 </p>
 
 
-## About Me
+I like experimenting with new technologies, building small projects and occasionally attending tech seminars
+Here's a list of things I'm currently keeping my self busy with;
 
-- 🔭 I’m currently working on **[Face Attendance System](https://github.com/MuhammadAmir5670/face-attendance-app/)**
+- 🧑🏻‍💻 Working as Senior Software Engineer at **Devsinc** using **Python** and **Javascript**
 
-- 🌱 I’m currently learning **Django & React js.**
+- 🔭 Currently working on **CRM application for a recruitment firm**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 Looking to **contribute to innovative projects**
 
-- 💬 Ask me about Anything, I would happy to help.
+- 🛠️ Getting myself into **Data engineering**. Trying out of **Apache Spark, kafka, and Airflow**
 
-- 📫 How to reach me **muhammadamir5670@gmail.com**
+- ⚡ Fun fact, I love playing [Takken](https://tekken.com)
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
-
+- 👨🏻‍🎓 Studied BS Computer Science at the NCBA&E, Pakistan
 <br/>
 
-## Connect with me:
-<p align="left">
-<a href = "https://www.linkedin.com/in/muhammad-amir-9826b71b5/"><img src="https://img.icons8.com/fluent/40/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Daniyal60990408/"><img src="https://img.icons8.com/fluent/40/000000/twitter.png"/></a>
-<a href="https://www.facebook.com/daniyal.abbasi.1610/">
-<img src="https://img.icons8.com/fluent/40/000000/facebook-new.png">
-</a>
-<a href = "https://www.instagram.com/the_infamous_abbasi/"><img src="https://img.icons8.com/fluent/40/000000/instagram-new.png"/></a>
-</p>
 
-<br/>
+## Tech Stack:
 
-## Languages and Tools:
-
-<p align="left"> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/40/000000/python.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> 
-    <img src="https://img.icons8.com/ios/50/000000/django.png"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/40/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/40/000000/css3.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/40/000000/javascript.png"/> </a> 
-    <img src="https://img.icons8.com/color/40/000000/sass.png"/>
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/26e07f/jquery.png"/> </a>
+<p align="center"> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="40"/> </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a> 
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> 
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/40/000000/bootstrap.png"/> </a> 
-    <img src="https://img.icons8.com/color/40/000000/c-programming.png"/>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/40/000000/react-native.png"/> </a>
     <img src="https://img.icons8.com/plasticine/45/000000/bash.png"/>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.jenkins.io" target="_blank">
     <img src="https://img.icons8.com/color/40/26e07f/postgreesql.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/40/000000/git.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/dusk/50/26e07f/php-logo.png"/>
-    </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/color/50/26e07f/linux.png"/></a>
-    <img src="https://img.icons8.com/fluent/40/000000/adobe-photoshop.png"/>
-    <a href="https://postman.com" target="_blank"> <img src="https://img.icons8.com/color/40/26e07f/adobe-xd.png"/> </a>   
 </p>
 
-<br/>
 
+## My Github Statistics
+<br/>
 <p align="center">
     <a href="https://github.com/muhammadamir5670/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Muhammad Amir's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadamir5670&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -73,19 +53,16 @@ I'm a final year student pursuing Bachelors's in Computer Science from NCBA&E. I
 
 <br/>
 
-## My Github Statistics
-  <p align="center">
-      <a href="https://github.com/muhammadamir5670/github-readme-stats" style="margin-right: 10px;"><img height="180em" alt="Muhammad Amir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=muhammadamir5670&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/muhammadamir5670/github-readme-stats"><img height="180em" alt="Muhammad Amir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadamir5670&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-  </p>
-
-<p>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<p align="center">
+  <a href="https://github.com/muhammadamir5670/github-readme-stats" style="margin-right: 10px;">
+    <img height="180em" alt="Muhammad Amir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=muhammadamir5670&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/muhammadamir5670/github-readme-stats">
+    <img height="180em" alt="Muhammad Amir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadamir5670&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
 </p>
 
-<a href="https://github.com/muhammadamir5670/github-readme-activity-graph"><img alt="Muhammad Amir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=muhammadamir5670&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
+[![Muhammad Amir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadamir5670&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
