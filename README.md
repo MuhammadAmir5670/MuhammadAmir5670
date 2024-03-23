@@ -2,6 +2,7 @@
   <img width="500px" height="auto" src="images/image.gif" height="175px"/>
 </p>
 
+# Hi, I'm Amir!
 
 I like experimenting with new technologies, building small projects and occasionally attending tech seminars
 Here's a list of things I'm currently keeping my self busy with;
